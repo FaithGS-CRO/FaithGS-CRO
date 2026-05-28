@@ -1,4 +1,4 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Ukusare Faith
 
 ### 📊 Aspiring Data Analyst | Learning Power BI, Python, SQL & GA4
 
