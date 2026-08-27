@@ -1,17 +1,17 @@
 # Hi 👋, I'm Ukusare Faith
 
-### 📊 Aspiring Data Analyst | Learning Power BI, Python, SQL & GA4
+### 📊  Data Analyst | Power BI, Python, SQL & Excel
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📈 Passionate about data analysis and visualization
-- 🌱 Currently learning **Power BI, Python, SQL, and Google Analytics 4**
-- 📊 Building dashboards and analytics projects
-- 🔍 Interested in business intelligence and data storytelling
-- ⚡ Fun fact: I enjoy turning raw data into insights
-
+- 📊 Data Analyst passionate about using data to solve business problems
+- 🐍 Using **Python, SQL, Power BI and Excel** to analyse and visualise data
+- 📈 Building practical projects in **business and customer analytics**
+- 🔍 Applying statistical analysis to understand patterns, relationships and customer behaviour
+- 💡 Interested in **business intelligence, strategy and data-driven decision making**
+- ⚡ Turning raw data into insights that tell a meaningful business story
 ---
 
 ## 📈 GitHub Stats
@@ -52,11 +52,11 @@
 
 ## 📂 Current Projects
 
-- 📊 Sales Dashboard in Power BI
-- 🐍 Data Analysis with Python
-- 🗄️ SQL Practice Projects
-- 📈 Website Analytics with GA4
-- 📉 Data Cleaning & Visualization
+- 📊 **Sales & Business Performance Dashboard** — Power BI
+- 🐍 **Customer & Business Analytics** — Python
+- 🗄️ **Business Data Analysis & SQL Projects** — SQL
+- 📈 **Data Cleaning, Exploration & Visualization** — Python / Power BI
+- 🎯 **Customer & Growth Analytics** — Exploring customer behaviour, acquisition and retention
 
 ---
 
